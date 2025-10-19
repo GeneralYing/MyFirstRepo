@@ -1,2 +1,2 @@
 # MyFirstRepo
-My first repository
+My first repository.(C/C++, Python, Go, Java, Git, Linux)
